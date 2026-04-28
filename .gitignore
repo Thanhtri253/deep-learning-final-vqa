@@ -1,0 +1,25 @@
+# Dataset - lưu trên Google Drive (xem DataLink.txt)
+data/
+dataset/
+images/
+*.csv
+
+# Model weights - quá nặng
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+Thumbs.db
