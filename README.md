@@ -32,8 +32,8 @@ Dataset: **2.100 ảnh**, 30 class món ăn, ~6.300 cặp Q&A tiếng Việt
 
 ---
 
-## 🗂️ Dataset & Model Weights
-📁 Google Drive: [Xem tại đây](https://drive.google.com/drive/folders/1jBz2iUq5_4D4beTpUFuFH9Xuxp3NfryH)
+##  Dataset & Model Weights
+ Google Drive: [Xem tại đây](https://drive.google.com/drive/folders/1jBz2iUq5_4D4beTpUFuFH9Xuxp3NfryH)
 
 Dataset **không** có trong repo vì kích thước lớn.  
 Tải về và đặt vào thư mục `data/` trước khi chạy.
